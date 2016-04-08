@@ -1,2 +1,2 @@
-# roman_algarism_converter
+# Roman algarism converter
 Roman Algarismo Converter in Ruby
